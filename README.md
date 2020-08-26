@@ -1,2 +1,2 @@
 # abrir-youtube
-Hola
+echo 'Hola'
